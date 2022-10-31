@@ -1,0 +1,9 @@
+/* First line external method */
+
+.external {
+    background-color: red;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700px;
+    font-size: 48px;
+}
