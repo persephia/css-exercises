@@ -1,0 +1,24 @@
+/* Styles for 02-class-id-selectors exercise */
+* {
+    font-family: 'Verdana', 'DesaVu Sans', 'sans-serif';
+}
+
+
+.pink-box {
+    background-color: #FEC5BB;
+}
+
+#blue-text {
+    color: blue;
+    font-size: 50px;
+}
+
+#big-text-pink {
+    font-size: 40px;
+}
+
+#green-box {
+    background-color: #B8DCB8;
+    font-weight: 700px;
+    font-size: 35px;
+}
