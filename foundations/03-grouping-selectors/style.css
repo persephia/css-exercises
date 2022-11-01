@@ -1,0 +1,15 @@
+.stnd-btn,
+.alert-btn {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.stnd-btn {
+    color: white;
+    background-color: black;
+}
+
+.alert-btn {
+    color: black;
+    background-color: yellow;
+}
